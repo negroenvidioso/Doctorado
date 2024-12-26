@@ -1,6 +1,6 @@
 # FASTA_MotifScanner
 
-Este script permite filtrar secuencias en un archivo FASTA basado en motivos específicos. Fue desarrollado por Allan Peñaloza - Otarola.
+Este script permite filtrar secuencias en un archivo FASTA basado en motivos específicos. Fue desarrollado por Allan Peñaloza - Otárola.
 
 ## Descripción
 
